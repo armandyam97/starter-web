@@ -1,0 +1,24 @@
+Metro Mass is responsible for running a fleet of buses throughout Kumasi. The buses are housed
+in one of three depots; Asokwa, Abuakwa and Bantama. Each Depot is identified by a depot
+number; in addition the depot name and addresses are recoded.
+Each bus is identified by its registration number. Details of buses’ models are held eg Route
+master and spirite of Kumasi. The buses run on various routes which are describe by starting and
+finishing points eg.Stadium/Fumesua. Each route is identified by a route number. Only buses
+from a particular depot will travel on particular routes. Buses are classified by various types such
+as double-decker and bendy-bus. There are restrictions on some of bus types for some of the
+routes, for example, those with low bridges may exclude double-decker buses and bendy-buses
+may be unable to operate around some corners. For this reason buses are designated to particular
+routes.
+The bus company employs bus drivers to operate the buses and cleaners help maintain 
+Metro Mass is responsible for running a fleet of buses throughout Kumasi. The buses are housed
+in one of three depots; Asokwa, Abuakwa and Bantama. Each Depot is identified by a depot
+number; in addition the depot name and addresses are recoded.
+Each bus is identified by its registration number. Details of buses’ models are held eg Route
+master and spirite of Kumasi. The buses run on various routes which are describe by starting and
+finishing points eg.Stadium/Fumesua. Each route is identified by a route number. Only buses
+from a particular depot will travel on particular routes. Buses are classified by various types such
+as double-decker and bendy-bus. There are restrictions on some of bus types for some of the
+routes, for example, those with low bridges may exclude double-decker buses and bendy-buses
+may be unable to operate around some corners. For this reason buses are designated to particular
+routes.
+The bus company employs bus drivers to operate the buses and cleaners help maintain 
